@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\dtr\dtr\bin\Debug\dtr.exe.config
+C:\Users\legen\source\repos\dtr\dtr\bin\Debug\dtr.exe
+C:\Users\legen\source\repos\dtr\dtr\bin\Debug\dtr.pdb
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.Form1.resources
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.Properties.Resources.resources
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.exe
+C:\Users\legen\source\repos\dtr\dtr\obj\Debug\dtr.pdb
